@@ -14,10 +14,10 @@ This repository contains detailed technical documentation analyzing the runtime 
 
 The documentation is organized into several key sections:
 
-- **Runtime Operation Overview**: A high-level introduction to Eliza's runtime architecture
-- **Handler Runtime Operation**: Detailed analysis of evaluator handlers and their execution flow
-- **Provider Runtime Operation**: Comprehensive coverage of provider lifecycle and architecture
-- **Action Runtime Operation**: In-depth documentation of action components and their behaviors
+- [Runtime Operation Overview](docs/runtime%20operation%20overview.md): A high-level introduction to Eliza's runtime architecture
+- [Handler Runtime Operation](docs/handler%20runtime%20operation.md): Detailed analysis of evaluator handlers and their execution flow
+- [Provider Runtime Operation](docs/provider%20runtime%20operation.md): Comprehensive coverage of provider lifecycle and architecture
+- [Action Runtime Operation](docs/action%20runtime%20operation.md): In-depth documentation of action components and their behaviors
 
 ## Key Components Covered
 
